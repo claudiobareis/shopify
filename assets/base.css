@@ -125,7 +125,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .header:not(.drawer-menu).page-width {
     padding-left: 5rem;
     padding-right: 5rem;
-    background-color: #f0f;
+    background-color: #ddd;
   }
 
   .page-width--narrow {
@@ -2288,6 +2288,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 /* section-header */
 .section-header.shopify-section-group-header-group {
   z-index: 3;
+  background-color: #ddd;
 }
 
 .shopify-section-header-sticky {
